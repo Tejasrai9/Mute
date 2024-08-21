@@ -102,6 +102,7 @@ Werkzeug==3.0.3
 wsproto==1.2.0
 yarl==1.9.4
 zope.interface==6.4.post2
+twisted==20.3.0
 cffi
 cryptography
 pyopenssl
