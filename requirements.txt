@@ -93,6 +93,7 @@ tqdm==4.66.4
 trio==0.25.0
 trio-websocket==0.11.1
 Twisted==24.3.0
+
 typing_extensions==4.11.0
 tzdata==2024.1
 urllib3==2.2.1
@@ -102,8 +103,3 @@ Werkzeug==3.0.3
 wsproto==1.2.0
 yarl==1.9.4
 zope.interface==6.4.post2
-twisted==20.3.0
-cffi
-cryptography
-pyopenssl
-
